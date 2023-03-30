@@ -1,0 +1,4 @@
+cd Desktop/
+mkdir H_Shared
+su
+mount -t vboxsf BD_Shared H_Shared
